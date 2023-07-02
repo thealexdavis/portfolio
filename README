@@ -1,5 +1,28 @@
-Mercury Systems (customized front and back end build): https://mrcy.com/
-Parexel (customized front and back end build): https://parexel.com/
-Parexel Insights (fully customized built front and back end resource center, javascript driven): https://www.parexel.com/insights
-CFMA eReader app (created digital book store, customized online and offline eReader, and option to turn .docx and .pdf files into ePub documents): https://cfma.org/ereader/
+Mercury Systems: https://mrcy.com/
+  *Created on Concrete CMS platform
+  *Fully customized front and backend build
+  *Over 25 custom modules created for the specific needs of the client
+  *Configured Apache environment
+  *Development included strong focus on speed and performance
+Parexel: https://parexel.com/
+  *Created on Concrete CMS platform
+  *Over 20 custom modules and blocks created for page creation
+  *Website built using PHP, vanilla javascript, and SCSS with all compliation through webpack (specifically Laravel Mix)
+  *Created complex animated landing pages to tell engaging stories while not negatively affecting page performance
+Parexel Insights: https://www.parexel.com/insights
+  *Created software able to be installed in the Concrete CMS platform for full resource centers
+  *Fully customized backend build using PHP and Javascript
+  *Customizable frontend which can change from project to project
+  *Contains complex filtering, sorting, and searching options
+  *Frontend built on vanilla javascript to achieve the fast load times and stable performance
+  *Developed with a focus on accessibility, performance, and SEO 
+CFMA eReader app: https://cfma.org/ereader/
+  *Created SPA (single page application) for eBook reading for CFMA
+  *Built on CakePHP and Vue JS
+  *Components include log in and log out system, payment systems, and the actual eReader application itself
+  *Application allows for online and offline reading with downloads, bookmarks, highlighting, and sharing
+  *Administrations can upload PDFs or .DOC files for conversion into ePub files. Uploading of ePub files also possible.
 BuzzerBlog: https://www.buzzerblog.com
+  *Wordpress website created for entertainment news organization
+  *Created a complex Wiki system which allows for a library of materials related to specific shows (including videos, articles, reviews, related content, and more)
+  *Created custom Gutenberg modules for easy content creation.
