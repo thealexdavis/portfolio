@@ -1,6 +1,6 @@
 *Several more examples of fully coded projects or snippets can be found in the main repository of my Github: (https://www.github.com/thealexdavis). 
 
-Below are some links to specific public projects I have created and what went into making each. More is available upon request.
+Below are some links to specific public projects I have created and what went into making each. More available upon request.
 
 Parexel: https://parexel.com/
   *Website built using PHP, vanilla javascript, and SCSS with all compliation through webpack (specifically Laravel Mix)
