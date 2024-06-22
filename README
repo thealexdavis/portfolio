@@ -1,19 +1,21 @@
-*Several more examples of fully coded projects or snippets can be found in [the main repository of my Github](https://www.github.com/thealexdavis). Below are some links to specific public projects I have created and what went into making each. More is available upon request.
+*Several more examples of fully coded projects or snippets can be found in the main repository of my Github: (https://www.github.com/thealexdavis). 
 
-[Parexel: https://parexel.com/](https://parexel.com/)
+Below are some links to specific public projects I have created and what went into making each. More is available upon request.
+
+Parexel: https://parexel.com/
   *Website built using PHP, vanilla javascript, and SCSS with all compliation through webpack (specifically Laravel Mix)
   *All elements of the site, from themes to templating to complex controllers and modules, fully customized and self written
   *Heavy emphasis on accessibility and performance. Site also built with multilingual editing capabilities in mind
   *Created complex animated landing pages to tell engaging stories while not negatively affecting page performance
   *Full website created and launched within 3 months
 
-[Mercury Systems: https://mrcy.com/](https://mrcy.com/)
+Mercury Systems: https://mrcy.com/
   *Fully customized front and backend build
   *Over 25 custom modules created for the specific needs of the client
   *Configured Apache environment
   *Development included strong focus on speed and performance
 
-[Parexel Insights: https://www.parexel.com/insights](https://www.parexel.com/insights)
+Parexel Insights: https://www.parexel.com/insights
   *Created software able to be installed in the platform for full resource centers
   *Fully customized backend build using PHP and Javascript
   *Customizable frontend which can change from project to project
@@ -21,14 +23,14 @@
   *Frontend built on vanilla javascript to achieve the fast load times and stable performance
   *Developed with a focus on accessibility, performance, and SEO
 
-[CFMA eReader app: https://cfma.org/ereader/](https://cfma.org/ereader/)
+CFMA eReader app: https://cfma.org/ereader/
   *Created SPA (single page application) for eBook reading for CFMA
   *Built using CakePHP and VueJS
   *Components include log in and log out system, payment systems, and the actual eReader application itself
   *Application allows for online and offline reading with downloads, bookmarks, highlighting, and sharing
   *Administrations can upload PDFs or .DOC files for conversion into ePub files. Uploading of ePub files also possible.
 
-[BuzzerBlog: https://www.buzzerblog.com](https://www.buzzerblog.com)
+BuzzerBlog: https://www.buzzerblog.com
   *Wordpress website created for entertainment news organization
   *Created a complex custom Wiki system which allows for a library of materials related to specific shows (including videos, articles, reviews, related content, and more.
   *Created several games, located within main Github page, in Javascript and Sockets for streaming and live purposes
