@@ -23,6 +23,11 @@ Parexel Insights: https://www.parexel.com/insights
   *Frontend built on vanilla javascript to achieve the fast load times and stable performance
   *Developed with a focus on accessibility, performance, and SEO
 
+Task Manager: https://github.com/thealexdavis/task-manager
+  *Created in React
+  *Utilizes Typescript, SCSS, and local storage for persistent sessions
+  *Includes adding, editing, deleting, filtering, sorting, and bulk actions
+
 CFMA eReader app: https://cfma.org/ereader/
   *Created SPA (single page application) for eBook reading for CFMA
   *Built using CakePHP and VueJS
